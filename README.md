@@ -24,8 +24,8 @@ yarn deploy
 
 ## Key Packages
 
-- `@rarible/types`, `@thirdweb-dev/react`, `@thirdweb-dev/sdk`: For interacting with the Rarible protocol and integrating thirdweb's development tools.
-- `@web3modal/wagmi`, `wagmi`: For web3 modal and hooks, essential for dApp interaction.
+- `@rarible/sdk`, `@thirdweb-dev/sdk`: For interacting with the Rarible protocol and integrating thirdweb's development tools for blockchain interactions.
+- `@web3modal/wagmi`, `wagmi`: For web3 modal and hooks.
 - `frames.js`: For creating frames on Warpcast to display your NFTs in an engaging way.
 
 
