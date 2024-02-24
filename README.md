@@ -9,14 +9,14 @@ yarn install
 ```
 
 
-3. **Smart Contracts**: Navigate to the `contracts` folder. This folder is set up with Foundry and includes common NFT contracts, scripts, and tests for rapid development on RARI Chain.
+**Smart Contracts**: Navigate to the `contracts` folder. This folder is set up with Foundry and includes common NFT contracts, scripts, and tests for rapid development on RARI Chain.
 
-4. **Build Your Project**: After making your desired changes, build your project with:
+**Build Your Project**: After making your desired changes, build your project with:
     
     ```bash
     yarn build
     ```
-5. **Deploy Frontend to RARI Chain**: Deploy your frontend to the RARI Chain by running:
+**Deploy Frontend to RARI Chain**: Deploy your frontend to the RARI Chain by running:
     ```bash
     yarn run
     ```
