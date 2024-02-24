@@ -1,4 +1,4 @@
-![RARI Chain Logo](chain_logo.png)
+![RARI Chain Logo](./public/chain_logo.png)
 
 # Build with Rari Template
 
