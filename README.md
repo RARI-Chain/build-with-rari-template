@@ -8,9 +8,6 @@ This template is designed for developers looking to build on the RARI Chain, lev
 yarn install
 ```
 
-
-**Smart Contracts**: Navigate to the `contracts` folder. This folder is set up with Foundry and includes common NFT contracts, scripts, and tests for rapid development on RARI Chain.
-
 **Build Your Project**: Build & run your project with:
 ```bash
 yarn dev
@@ -28,6 +25,8 @@ yarn deploy
 - `@web3modal/wagmi`, `wagmi`: For web3 modal and hooks.
 - `frames.js`: For creating frames on Warpcast to display your NFTs in an engaging way.
 
+## Smart Contracts
+Navigate to the `contracts` folder. This folder is set up with Foundry and includes common NFT contracts, scripts, and tests for rapid development of NFTs on RARI Chain. Open Zeppelin & the Rarible Protocol Contracts are already installed and ready to use.
 
 ## Environment Variables
 
