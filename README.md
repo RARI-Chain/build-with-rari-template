@@ -17,9 +17,9 @@ yarn install
     yarn build
     ```
 5. **Deploy Frontend to RARI Chain**: Deploy your frontend to the RARI Chain by running:
-        ```bash
-        yarn run
-        ```
+    ```bash
+    yarn run
+    ```
 
    This command builds your Next.js app and deploys it to IPFS, making it accessible on the RARI Chain.
 
